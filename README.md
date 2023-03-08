@@ -23,5 +23,3 @@ docker run -p 8080:80 demo:v1
 docker-compose up
 ```
 
-Full video can be found here:
-https://youtu.be/slcKUz6CyLg
